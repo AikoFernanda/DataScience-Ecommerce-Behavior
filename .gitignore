@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+# (Opsional) Jika file CSV-mu di atas 100MB, tulis nama filenya di sini, 
+# tapi karena dataset e-commerce 8000 user ini kecil, tidak perlu di-ignore.
